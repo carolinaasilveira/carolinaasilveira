@@ -8,7 +8,7 @@
 
 ###
 
-<p data-importer="text" align="left">👩‍💻 Studying Analysis and System Development<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p data-importer="text" align="left">👩‍💻 Studying Analysis and System Development<br>📚</p>
 
 ###
 
